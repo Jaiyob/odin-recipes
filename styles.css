@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, "Times New Roman", serif;
+}
+
+.food-title {
+    background-color: green;
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.additional-notes {
+    font-style: oblique;
+    font-size: 15px;
+    color: blue;
+}
